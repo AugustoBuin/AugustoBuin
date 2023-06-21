@@ -1,10 +1,5 @@
-<div align="center">
-  <img align="left" width="35%"alt="logo" src="">
-</div>
-<hr>
-
 <div >
-  <img align="left" width="35%" alt="Moon" src="">
+  <img align="left" width="35%"  alt="logo" src="logo.png">
   <h2>Hey There!👋</h2>
 <!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=AugustoBuin&color=yellow" alt="Profile views" /> </p> Maybe in the future? -->
   <p>
@@ -12,18 +7,18 @@
     <li>I prefer the Front End, but also make my way into Back End</li>
     <li>Here's a quote for you: J.R.R. Tolkien said "There can be no triumph without loss, No victory without suffering, No freedom without sacrifice", and he's right, you cannot grow if you are not encouraged to do so. </li>
   </p>
-</div>
+</div><br/><br/>
 <hr>
 
-<div>
-  <h2 align="center">Contact Me!</h2>
+<div align="center">
+  <h2>Contact Me!</h2>
       <a href="https://mail.google.com/mail/u/0/?fs=1&to=augusto.henrique.buin@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=4B70F1"></img></a>&nbsp; 
   <a href="https://www.linkedin.com/in/augusto-henrique-buin/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"></img></a>&nbsp;
     <a href="https://www.instagram.com/augusto_buin/"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=4B70F1"></img></a>&nbsp;
-</div>
+</div><hr>
 
 <div>
-  <h2>I have experience with:</h2>
+  <h2 align="center">I have experience with:</h2>
   <p>
     <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=4B70F1"></img>&nbsp;
