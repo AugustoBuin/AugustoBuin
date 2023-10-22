@@ -22,14 +22,16 @@
   <p>
     <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind-151515?style=for-the-badge&logo=tailwindCSS&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=4B70F1"></img>&nbsp
+    <img src="https://img.shields.io/badge/PandasAI-151515?style=for-the-badge&logo=pandas&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=nodedotjs&logoColor=4B70F1"></img>&nbsp;    
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgreSQL&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=MongoDB&logoColor=4B70F1"></img>&nbsp;
   </p>
 </div>
 <hr>
@@ -39,3 +41,6 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBuin&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
 <hr>
+<div>
+  <h2 align="center">What I'm doing now</h2>
+</div>
