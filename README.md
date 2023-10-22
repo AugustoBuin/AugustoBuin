@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/Tailwind-151515?style=for-the-badge&logo=tailwindCSS&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/PandasAI-151515?style=for-the-badge&logo=pandas&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk&logoColor=4B70F1""></img>&nbsp;
+    <img src="https://img.shields.io/badge/Spring-151515?style=for-the-badge&logo=spring&logoColor=4B70F1""></img>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=4B70F1"></img>&nbsp;
