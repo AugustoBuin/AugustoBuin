@@ -4,7 +4,8 @@
 <!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=AugustoBuin&color=yellow" alt="Profile views" /> </p> Maybe in the future? -->
   <p>
     <li>My name's Augusto Henrique, and I have 20 years!</li>
-    <li>I prefer the Front End, but also make my way into Back End</li>
+    <li>I'm a Fullstack Developer who loves interacting with other people. 
+</li>
     <li>Here's a quote for you: J.R.R. Tolkien said "There can be no triumph without loss, No victory without suffering, No freedom without sacrifice", and he's right, you cannot grow if you are not encouraged to do so. </li>
   </p>
 </div><br/><br/>
@@ -44,5 +45,10 @@
 </div>
 <hr>
 <div>
-  <h2 align="center">What I'm doing now</h2>
+  <h2 align="center">Currently Workin In</h2>
+  <p>
+    I'm currently working for the Team Beelieve as Scrum Master, and I'm participating in a mentoring project by FATEC SJC Jessen Vidal, where I am part of the group of developers who is creating a software to collect student data through forms. </br> 
+    You can find my work in the pinned repositories.
+  </p>
 </div>
+
