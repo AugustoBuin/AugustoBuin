@@ -70,7 +70,7 @@
   <div>
     <div>My name is Augusto Henrique Buin, I graduated from the National Service for Industrial Learning (SENAI) as a Chemistry Technician, having completed the course integrated with high school. During this period, I had the opportunity to actively participate in the cultural scene, working as a director and screenwriter in a theater play, as well as leading a musical band.
     </div>
-    <div>My journey took a new direction when I entered the field of Information Technology, where I am currently in the third semester of the Multiplatform Software Development course at the Technological College of the State of São Paulo (FATEC). Throughout this journey, I participated in three challenging projects proposed by the college, developing skills as a Fullstack developer and acting as a Master, applying agile methodologies, including Scrum.
+    <div>My journey took a new direction when I entered the field of Information Technology, where I am currently in the fourth semester of the Multiplatform Software Development course at the Technological College of the State of São Paulo (FATEC). Throughout this journey, I participated in three challenging projects proposed by the college, developing skills as a Fullstack developer and acting as a Master, applying agile methodologies, including Scrum.
     </div>
     <div>I strongly believe in the constant pursuit of improvement, and my commitment to continuous learning reflects my determination to contribute significantly to the technological landscape. I am excited to share my projects and experiences here. Whether you have questions, comments, or simply wish to exchange ideas, please feel free to reach out. I am here for a conversation!
     </div>
