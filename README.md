@@ -2,7 +2,7 @@
   <img align="left" width="35%"  alt="logo" src="img/logo.png">
   <h1>Hey There!👋</h1>
   <p>
-    <li>My name's Augusto Henrique, and I have 20 years!</li>
+    <li>My name's Augusto Henrique Buin, and I have 21 years!</li>
     <li>I'm a Fullstack Developer who loves interacting with other people. 
 </li>
     <li>Here's a quote for you: J.R.R. Tolkien said "There can be no triumph without loss, No victory without suffering, No freedom without sacrifice", and he's right, you cannot grow if you are not encouraged to do so. </li>
@@ -70,7 +70,7 @@
   <div>
     <div>My name is Augusto Henrique Buin, I graduated from the National Service for Industrial Learning (SENAI) as a Chemistry Technician, having completed the course integrated with high school. During this period, I had the opportunity to actively participate in the cultural scene, working as a director and screenwriter in a theater play, as well as leading a musical band.
     </div>
-    <div>My journey took a new direction when I entered the field of Information Technology, where I am currently in the fourth semester of the Multiplatform Software Development course at the Technological College of the State of São Paulo (FATEC). Throughout this journey, I participated in three challenging projects proposed by the college, developing skills as a Fullstack developer and acting as a Master, applying agile methodologies, including Scrum.
+    <div>My journey took a new direction when I entered the field of Information Technology, where I am currently in the fourth semester of the Multiplatform Software Development course at the Technological College of the State of São Paulo (FATEC). Throughout this journey, I participated in some challenging projects proposed by the college, developing skills as a Fullstack developer and acting as a Master, applying agile methodologies, including Scrum.
     </div>
     <div>I strongly believe in the constant pursuit of improvement, and my commitment to continuous learning reflects my determination to contribute significantly to the technological landscape. I am excited to share my projects and experiences here. Whether you have questions, comments, or simply wish to exchange ideas, please feel free to reach out. I am here for a conversation!
     </div>
@@ -112,7 +112,8 @@
 <div>
   <h1 align="center">Currently Working On</h1>
   <p>
-    I'm currently working for the Team Beelieve as Scrum Master, and I'm participating in a mentoring project by FATEC SJC Jessen Vidal, where I am part of the group of developers who is creating a software to collect student data through forms, as a Fullstack Developer. </br> 
+    I'm currently participating in a monitoring project by FATEC SJC Jessen Vidal, where I am part of the group of developers who is creating a software to collect student data through forms, as a Fullstack Developer. </br> 
+    This semester I'll work again as a Scrum Master in a project with <a href="https://tecsus.com.br">TecSUS</a>. I'll update it as soon as the project starts. 
     You can find my work in the pinned repositories.
   </p>
 </div>
