@@ -71,7 +71,8 @@
 <div>
   <h1 align="center">Currently Working On</h1>
   <p>
-    I'm currently participating in a monitoring project by FATEC SJC Jessen Vidal, where I am part of the group of developers who is creating a software to collect student data through forms, as a Fullstack Developer. </br>  
+    I'm currently participating in a monitoring project by FATEC SJC Jessen Vidal, where I am part of the group of developers who is creating a software to collect student data through forms, as a Fullstack Developer. </br> 
+  And I'm also working as a developer on a college project, where we need to develop an AI that recognizes clouds in images coming from a satellite. <br/>
     You can find my work in the pinned repositories.
   </p>
 </div>
