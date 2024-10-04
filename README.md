@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgreSQL&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=MongoDB&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=Docker&logoColor=4B70F1"></img>&nbsp;
   </p>
 </div>
 <hr>
