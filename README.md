@@ -2,7 +2,7 @@
   <img align="left" width="35%"  alt="logo" src="img/logo.png">
   <h1>Hey There!👋</h1>
   <p>
-    <li>My name's Augusto Henrique Buin, and I have 21 years!</li>
+    <li>My name's Augusto Henrique Buin, and I have 22 years!</li>
     <li>I'm a Fullstack Developer who loves interacting with other people. 
 </li>
     <li>Here's a quote for you: J.R.R. Tolkien said "There can be no triumph without loss, No victory without suffering, No freedom without sacrifice", and he's right, you cannot grow if you are not encouraged to do so. </li>
@@ -29,7 +29,7 @@
   <div>
     <div>My name is Augusto Henrique Buin, I graduated from the National Service for Industrial Learning (SENAI) as a Chemistry Technician, having completed the course integrated with high school. During this period, I had the opportunity to actively participate in the cultural scene, working as a director and screenwriter in a theater play, as well as leading a musical band.
     </div>
-    <div>My journey took a new direction when I entered the field of Information Technology, where I am currently in the fifth semester of the Multiplatform Software Development course at the Technological College of the State of São Paulo (FATEC). Throughout this journey, I participated in some challenging projects proposed by the college, developing skills as a Fullstack developer and acting as a Master, applying agile methodologies, including Scrum.
+    <div>My journey took a new direction when I entered the field of Information Technology, where I am currently in the sixth semester of the Multiplatform Software Development course at the Technological College of the State of São Paulo (FATEC). Throughout this journey, I participated in some challenging projects proposed by the college, developing skills as a Fullstack developer and acting as a Master, applying agile methodologies, like Scrum.
     </div>
     <div>I strongly believe in the constant pursuit of improvement, and my commitment to continuous learning reflects my determination to contribute significantly to the technological landscape. I am excited to share my projects and experiences here. Whether you have questions, comments, or simply wish to exchange ideas, please feel free to reach out. I am here for a conversation!
     </div>
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Tailwind-151515?style=for-the-badge&logo=tailwindCSS&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/PandasAI-151515?style=for-the-badge&logo=pandas&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Transformers-151515?style=for-the-badge&logo=transformers&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/Spring-151515?style=for-the-badge&logo=spring&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=4B70F1"></img>&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=4B70F1"></img>&nbsp;
@@ -71,8 +71,8 @@
 <div>
   <h1 align="center">Currently Working On</h1>
   <p>
-    I'm currently participating in a monitoring project by FATEC SJC Jessen Vidal, where I am part of the group of developers who is creating a software to collect student data through forms, as a Fullstack Developer. </br> 
-  And I'm also working as a developer on a college project, where we need to develop an AI that recognizes clouds in images coming from a satellite. <br/>
+    I'm currently participating in a monitoring project by FATEC SJC Jessen Vidal, where I develop a software to collect student data through forms, as a Fullstack Developer. </br> 
+  And I'm also working as a Scrum Master and Fullstack Developer on a college project, where we need to develop a system that automates data collection and analysis for intelligent customer service, enhancing efficiency and decision-making with TypeScript-based backend and frontend, and a Python AI microservice with Natural Language Processing. <br/>
     You can find my work in the pinned repositories.
   </p>
 </div>
