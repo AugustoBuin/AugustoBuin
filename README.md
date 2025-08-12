@@ -7,6 +7,8 @@
 </li>
     <li>Here's a quote for you: J.R.R. Tolkien said "There can be no triumph without loss, No victory without suffering, No freedom without sacrifice", and he's right, you cannot grow if you are not encouraged to do so. </li>
   </p>
+  <p> If you prefer to see my portfolio on GitHub Pages, just click <a href="https://fatec-sjc-dsm-portfolio.github.io/ra1461392221018">here</a>
+  </p>
 </div><br/><br/><br/><br/><br/>
 <!-- <img src="https://komarev.com/ghpvc/?username=AugustoBuin&color=yellow" alt="Profile views" /> </p> Maybe in the future? -->
 <hr>
